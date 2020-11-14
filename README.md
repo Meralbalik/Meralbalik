@@ -9,3 +9,5 @@ Data scientist with a background in Applied Mathematics and Physics, experienced
 Python, R, SQL, Machine Learning (supervised and unsupervised),Deep Learning (CNN), Data Wrangling, Exploratory Data Analysis, Feature Engineering, Feature Selection, Data Visualization, Predictive Modeling, Classification and Clustering (K-Means). 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meralbalik)](https://github.com/anuraghazra/github-readme-stats)
+
+![Meral's github stats](https://github-readme-stats.vercel.app/api?username=Meralbalik&show_icons=true)
